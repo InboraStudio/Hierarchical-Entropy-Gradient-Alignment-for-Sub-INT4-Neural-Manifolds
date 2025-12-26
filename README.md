@@ -1,6 +1,6 @@
 # HEX INT4 ALIGNMENT ENGINE
 
-## ⚠️ DANGER: DO NOT RUN ⚠️
+## DANGER: DO NOT RUN
 **CLASSIFIED LEVEL: COSMIC HORROR**
 
 This framework implements the **Hierarchical Entropy-Gradient Alignment** for **Sub-INT4 Neural Manifolds**. It bypasses standard floating point safeguards to access the raw silicon quantum states.
