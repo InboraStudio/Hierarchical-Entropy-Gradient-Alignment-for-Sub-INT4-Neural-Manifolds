@@ -1,8 +1,5 @@
 #include <math.h>
 
-// GRADIENT INJECTOR
-// injects gradients directly into the CPU veins
-// do not touch the high voltage lines
 
 typedef struct {
     float entropy;
